@@ -3,7 +3,7 @@ title: Les fractales
 subtitle: Des formes exceptionnelles.
 
 # Summary for listings and search engines
-summary: Une figure fractale est un objet mathématique qui présente une structure similaire à toutes les échelles. Dans cette article, nous vous proposons un voyage fascinant à travers le monde des fractales.
+summary: Une figure fractale est un objet mathématique qui présente une structure similaire à toutes les échelles. Dans cette article, nous vous proposons un voyage à travers le monde fascinant des fractales.
 
 
 tags:

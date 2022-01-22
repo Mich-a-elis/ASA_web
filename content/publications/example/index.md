@@ -1,5 +1,5 @@
 ---
-title: Petite balade dans le monde la simulation numérique
+title: Petite balade dans le monde de la simulation numérique
 subtitle: Simulation numérique
 
 # Authors
