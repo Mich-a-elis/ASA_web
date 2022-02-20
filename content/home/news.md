@@ -27,12 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Vulgarisation
-    tag: Vulg
-  - name: Sciences en pratique
-    tag: Sciences en pratique
-  - name: Publications
-    tag: Pub
+  - name: Projets
+    tag: proj
+  - name: Articles
+    tag: art
   - name: Autres
     tag: Demo
   # Choose how many pages you would like to display (0 = all pages)
@@ -49,7 +47,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

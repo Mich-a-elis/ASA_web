@@ -4,7 +4,7 @@ subtitle: Association Sciences pour l'Afrique.
 summary:  L'Association Sciences pour l'Afrique est une association dédiée à la promotion des sciences en Afrique.
 
 tags:
-- Pub
+- art
 
 # Summary for listings and search engines
 
@@ -36,7 +36,9 @@ authors:
 - kokou DOTSE
 
 
-categories:
-- listes des news
+#categories:
+#- listes des news
 ---
+<br>
 
+L'Association Sciences pour l'Afrique est une association dédiée à la promotion des sciences en Afrique.
